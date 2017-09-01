@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportHeight="1024.0"
+        android:viewportWidth="1024.0">
+    <path
+        android:fillColor="@color/camera_progress_delete"
+        android:pathData="M505.1,16.4c-277.1,0 -502.6,225.5 -502.6,502.6 0,277.1 225.5,502.6 502.6,502.6 277,0 502.6,-225.5 502.6,-502.6C1007.7,241.9 782.2,16.4 505.1,16.4L505.1,16.4zM505.1,973.7c-250.8,0 -454.7,-204 -454.7,-454.7 0,-250.7 203.9,-454.7 454.7,-454.7 250.7,0 454.7,204 454.7,454.7C959.8,769.7 755.9,973.7 505.1,973.7L505.1,973.7zM505.1,973.7"/>
+    <path
+        android:fillColor="@color/camera_progress_delete"
+        android:pathData="M708.2,349.6l-33.9,-33.8L505.2,485.1 335.9,315.8l-33.9,33.9 169.3,169.3 -169.1,169.4 33.9,33.8 169.1,-169.3 169.2,169.2 33.9,-33.9L539.1,519 708.2,349.6zM708.2,349.6"/>
+</vector>
